@@ -32,7 +32,7 @@
   
   ## GitHub 
  GitHub Username: [Kpresents] (https://github.com/Kpresents)
-  
+ GitHub Repo: https://github.com/Kpresents/Note-Taking-Application
   
   ## Email
  Email: kpresents.0@gmail.com
