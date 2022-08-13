@@ -7,7 +7,7 @@
   Modify started code to create an application called NOTE TAKER that can be user to write and save notes. This application will user an Express.js back end and will save and retrive note data from a JSON file. 
  
  ![NoteTaker](/Assets/NoteTaker.png)
-  HEROKU Link: 
+  HEROKU Link: https://note-taker-toheroku.herokuapp.com/
 
 
   ## Table of Contents
@@ -26,7 +26,7 @@
   
   ## Usage
   
-  User must open application via HEROKU link:     . User can also run the terminal and run "npm start" which will prompt the user with "Local host is listening", go to the web browser and enter 'http://localhost:3001", the user will see the application running and ready to enter and save notes. 
+   User can run the terminal and run "npm start" which will prompt the user with "Local host is listening", go to the web browser and enter 'http://localhost:3001", the user will see the application running and ready to enter and save notes. User can also open application via HEROKU link: https://note-taker-toheroku.herokuapp.com/.
       
 
   
